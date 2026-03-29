@@ -38,7 +38,7 @@ The new figures, referenced in author responses as Figure LP1, ..., Figure ID1, 
 | Name \& Link | Figure | Filepath |
 |---|---|---|
 | [Original \& Blurred Image](image_deblurring/setup_C/original_and_blurred_images.pdf) | **Figure ID9** | `image_deblurring/setup_C/original_and_blurred_images.pdf` |
-| [MYPGD \& SOSMC Final Particles](image_deblurring/setup_C/final_particles_comparison.pdf) | **Figure ID10** | `image_deblurring/setup_A/final_particles_comparison.pdf`
+| [MYPGD \& SOSMC Final Particles](image_deblurring/setup_C/final_particles_comparison.pdf) | **Figure ID10** | `image_deblurring/setup_C/final_particles_comparison.pdf`
 | [Evaluation Curves](image_deblurring/setup_C/evaluation_curves.pdf) | **Figure ID11** | `image_deblurring/setup_C/evaluation_curves.pdf` |
 | [Variance Maps](image_deblurring/setup_C/variance_maps.pdf) | **Figure ID12** | `image_deblurring/setup_C/variance_maps.pdf` |
 
