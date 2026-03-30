@@ -8,11 +8,11 @@ The new figures, referenced in author responses as Figure LP1, ..., Figure ID1, 
 
 | Name \& Link | Figure | Filepath |
 |---|---|---|
-| [$V_{\text{dual}} \ \& \ R_{\text{smooth}}$ Runs](additional_kernels/V_dual_R_smooth.pdf) | **Figure LP1** | `additional_kernels/V_dual_R_smooth.pdf` |
-| [$V_{\text{dual}} \ \& \ R_{\text{hard}}$ Runs](additional_kernels/V_dual_R_hard.pdf) | **Figure LP2** | `additional_kernels/V_dual_R_hard.pdf` |
-| [$V_{\text{sparse}} \ \& \ R_{\text{hard}}$ Runs](additional_kernels/V_sparse_R_hard.pdf) | **Figure LP3** | `additional_kernels/V_sparse_R_hard.pdf` |
-| [$V_{\text{tight}} \ \& \ R_{\text{hard}}$ Runs](additional_kernels/V_tight_R_hard.pdf) | **Figure LP4** | `additional_kernels/V_tight_R_hard.pdf` |
-| [$V_{\text{dual}}, V_{\text{sparse}}, V_{\text{tight}}$](additional_kernels/V_dual_V_sparse_V_tight.pdf) | **Figure LP5** | `additional_kernels/V_dual_V_sparse_V_tight.pdf` |
+| [V_dual \& R_smooth Runs](additional_kernels/V_dual_R_smooth.pdf) | **Figure LP1** | `additional_kernels/V_dual_R_smooth.pdf` |
+| [V_dual \& R_hard Runs](additional_kernels/V_dual_R_hard.pdf) | **Figure LP2** | `additional_kernels/V_dual_R_hard.pdf` |
+| [V_sparse \& R_hard Runs](additional_kernels/V_sparse_R_hard.pdf) | **Figure LP3** | `additional_kernels/V_sparse_R_hard.pdf` |
+| [V_tight \& R_tight Runs](additional_kernels/V_tight_R_tight.pdf) | **Figure LP4** | `additional_kernels/V_tight_R_tight.pdf` |
+| [Langevin Proccesses Problems](additional_kernels/langevin_processes_problems.pdf) | **Figure LP5** | `additional_kernels/langevin_processes_problems.pdf` |
 
 ## New Experiment - Image Deblurring (MMLE)
 
